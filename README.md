@@ -1,0 +1,11 @@
+Contact Manager App - made using NodeJS and ExpressJS
+- Contact Manager App is a REST API project
+- User can Register and Login
+- User after Login can 
+    - Create a new Contact
+    - Read all Contacts
+    - Read a Contact
+    - Update a Contact
+    - Delete a Contact
+- Implemented Authentication mechanishm with JWT and password hashing with bcrypt
+- Connected App with MongoDB Database for performing CRUD Operation
