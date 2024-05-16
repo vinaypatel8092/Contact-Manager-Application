@@ -1,4 +1,4 @@
-Contact Manager App - made using NodeJS and ExpressJS
+# Contact Manager App - made using NodeJS and ExpressJS
 - Contact Manager App is a REST API project
 - User can Register and Login
 - User after Login can 
